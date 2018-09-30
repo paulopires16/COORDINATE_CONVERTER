@@ -7,6 +7,15 @@ REM Conversao de Coordenadas de Dados Vetoriais (Vector) e Dados Matriciais (Ras
 CALL "C:\cpc_apps\coordenate_converter\coordenate_converter.exe"
 ```
 
+# Parâmetros de Conversão
+```batch
+Molodensky (3P)
+Bursa-Wolf (7P)
+Grelhas (NTv2)
+Mudança PROJ/DATUM
+Transf. COMPLEXA
+```
+
 # Conversao entre sistemas:
 ```batch
 wgs84_datum73_3p
